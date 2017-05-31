@@ -1,6 +1,3 @@
-# zhihuiguo
-XYZY IT
-
 # wisdomtree
 A simple script that makes studying much easier.
 
